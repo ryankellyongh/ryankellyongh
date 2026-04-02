@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi, I’m Ryan Kelly 👋
 
 🎓 Data Analytics student at Northeastern University  
@@ -44,4 +41,4 @@ Designed a manually operated dispensing device using FreeCAD
 
 ## 📫 Let’s Connect
 [LinkedIn link here]
--->
+
