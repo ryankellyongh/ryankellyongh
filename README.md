@@ -40,5 +40,5 @@ Designed a manually operated dispensing device using FreeCAD
 ---
 
 ## 📫 Let’s Connect
-[LinkedIn link here]
+https://www.linkedin.com/in/ryankelly10/
 
