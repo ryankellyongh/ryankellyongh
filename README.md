@@ -15,7 +15,7 @@
 
 ## 📁 Featured Projects
 
-### 🏙️ BERDO Emissions Analysis
+### 🏙️ BERDO Analysis
 Analyzed 4,500+ Boston buildings to identify emissions patterns and non-compliance risks.  
 → Focus on equity, energy use intensity, and policy insights  
 
