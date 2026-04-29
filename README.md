@@ -21,9 +21,9 @@ Analyzed 4,500+ Boston buildings to identify emissions patterns and non-complian
 
 **Key Outcomes**:
 
-- Identified 1,902 records missing valid Site EUI, highlighting major data completeness challenges.
-- Found that missing property type was linked to non-submission with 1,652 of 1,653 missing-property-type records marked as not submitted.
-- Flagged 1,003 high-priority buildings based on high energy intensity and property complexity.
+- Identified 1,902 records missing valid Site EUI, highlighting major data completeness challenges
+- Flagged 1,003 high-priority buildings based on high energy intensity and property complexity
+- Found that missing property type was linked to non-submission
   
 **Impact**: Insights directly informed workforce discussions around building performance, emissions reduction, and equitable decarbonization.
 
