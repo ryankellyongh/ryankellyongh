@@ -25,7 +25,7 @@ Analyzed 4,500+ Boston buildings to identify emissions patterns and non-complian
 - Flagged 340+ buildings at risk of non-compliance with city policy
 - Surfaced equity implications: low-income neighborhoods had 22% higher average emissions
   
-**Impact**: Insights directly informed local energy policy recommendations
+**Impact**: Insights directly informed workforce discussions around building performance, emissions reduction, and equitable decarbonization.
 
 **Tools**: Python (pandas, matplotlib), Excel
  
