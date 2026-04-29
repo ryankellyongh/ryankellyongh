@@ -21,9 +21,10 @@ Analyzed 4,500+ Boston buildings to identify emissions patterns and non-complian
 
 **Key Outcomes**:
 
-- Identified energy use intensity (EUI) gaps across 89% of building stock
-- Flagged 340+ buildings at risk of non-compliance with city policy
-- Surfaced equity implications: low-income neighborhoods had 22% higher average emissions
+- Analyzed 5,580 Boston building records to assess BERDO reporting gaps and energy performance patterns.
+- Identified 1,902 records missing Site EUI, highlighting major data completeness challenges.
+- Found that missing property type was strongly linked to non-submission, with 1,652 of 1,653 missing-property-type records marked as not submitted.
+- Flagged 1,003 high-priority buildings based on high energy intensity and property complexity.
   
 **Impact**: Insights directly informed workforce discussions around building performance, emissions reduction, and equitable decarbonization.
 
