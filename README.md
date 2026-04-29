@@ -76,7 +76,7 @@ Designed a manually operated dispensing device for cost-effective, field-deploya
 
 ## 📚 Currently Learning
 
-- Advanced geospatial analysis (QGIS, PostGIS)
+- Advanced geospatial analysis (QGIS, ArcGIS)
   
 - Time-series forecasting for energy demand
   
