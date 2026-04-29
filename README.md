@@ -70,8 +70,8 @@ Designed a manually operated dispensing device for cost-effective, field-deploya
   
 - Machine Learning
   
-- Data Visualization (Tableau)
-
+- Data Visualization
+  
 ---
 
 ## 📚 Currently Learning
