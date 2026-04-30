@@ -1,7 +1,7 @@
 # Hi, I’m Ryan Kelly 👋
 
 🎓 Data Analytics student at Northeastern University  
-🌎 Interested in environmental data, clean energy, and sustainability  
+🌎 Interested in environmental data, public health, clean energy, and sustainability  
 📊 I use data to identify performance gaps and turn them into actionable insights  
 
 ---
