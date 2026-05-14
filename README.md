@@ -17,7 +17,7 @@
 
 ### 🏙️ BERDO Analysis
 
-Analyzed 4,500+ Boston buildings to identify emissions patterns and non-compliance risks.
+Analyzed 5,500+ Boston buildings to identify emissions patterns and non-compliance risks.
 
 **Key Outcomes**:
 
@@ -27,7 +27,7 @@ Analyzed 4,500+ Boston buildings to identify emissions patterns and non-complian
   
 **Impact**: Insights directly informed workforce discussions around building performance, emissions reduction, and equitable decarbonization.
 
-**Tools**: Python (pandas, matplotlib), Excel
+**Tools**: Python (pandas, matplotlib), Streamlit, Excel | [Live app →](https://berdo-building-priority-screening-tool.streamlit.app)
  
 
 ### 🧬 Antibiotic Resistance Prediction
