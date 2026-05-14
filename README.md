@@ -66,7 +66,9 @@ Designed a manually operated dispensing device for cost-effective, field-deploya
   
 - SQL
   
-- Tableau, Excel
+- Tableau
+
+- Excel
   
 - Machine Learning
   
