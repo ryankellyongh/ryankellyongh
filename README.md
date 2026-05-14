@@ -35,9 +35,9 @@ Built Logistic Regression and Random Forest models to predict cefepime resistanc
 
 **Key Outcomes**:
 
-- Logistic Regression model: 89% recall (minimized missed resistant cases)
-- Random Forest model: 91% precision (reduced false positives)
-- Model interpretability: Feature importance analysis identified key resistance drivers
+- Logistic Regression achieved 87% recall and 0.871 balanced accuracy on the validation set, outperforming Random Forest across both metrics
+- Tuned models using nested cross-validation (5-fold outer, 3-fold inner GridSearchCV) to prevent data leakage during hyperparameter selection
+- Feature coefficient analysis identified key genomic resistance drivers, supporting model interpretability
 
 **Impact**: Supports faster clinical decision-making for antibiotic selection.
 
