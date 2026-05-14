@@ -23,7 +23,7 @@ Analyzed 5,500+ Boston buildings to identify emissions patterns and non-complian
 
 - Identified 1,902 records missing valid Site EUI, highlighting data completeness challenges
 - Flagged 1,003 high-priority buildings based on high energy intensity and property complexity
-
+- Built an interactive Streamlit app that lets users look up any Boston address in the BERDO dataset and see the annual cost of non-compliance.
   
 **Impact**: Insights directly informed workforce discussions around building performance, emissions reduction, and equitable decarbonization.
 
