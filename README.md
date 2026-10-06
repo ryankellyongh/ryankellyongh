@@ -17,7 +17,7 @@
 
 ### 🏙️ BERDO Analysis
 
-Analyzed 5,500+ Boston buildings to identify emissions patterns and non-compliance risks.
+Analyzed 5,000+ Boston buildings to identify emissions patterns and non-compliance risks.
 
 **Key Outcomes**:
 
